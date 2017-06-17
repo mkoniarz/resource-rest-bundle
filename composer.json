@@ -1,7 +1,7 @@
 {
     "name": "mkoniarz/resource-rest-bundle",
     "replace": {
-	"symfony-cmf/resource-rest-bundle":"dev-master"
+	"symfony-cmf/resource-rest-bundle":"1.0.x-dev"
     },
     "description": "Bundle which provides a REST API for resources",
     "homepage": "http://cmf.symfony.com",
